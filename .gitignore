@@ -74,3 +74,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 *.meta
+Assets/DataIndex.txt
+Assets/Datafgresgergsergs.csv
+Assets/DataPhotonSingle00.csv
+Assets/DataPhotonSolo00.csv
+Assets/DataPhotonSoloSim00.csv
