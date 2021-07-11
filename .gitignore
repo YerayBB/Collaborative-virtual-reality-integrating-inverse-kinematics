@@ -15,9 +15,9 @@
 !/[Aa]ssets/*.meta
 
 
-!/[Aa]ssets/**/*.*.meta
-!/[Aa]ssets/**/**/*.*.meta
-!/[Aa]ssets/*.*.meta
+!/[Aa]ssets/**/**.meta
+!/[Aa]ssets/**/**/**.meta
+!/[Aa]ssets/**.meta
 
 
 
