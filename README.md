@@ -34,6 +34,8 @@ The different menus of the interface are connected following this map
 10. Last of the cameras to see the scene, this one shows the scene from the other side of the room.
 11. The whole camera system, in this screen all the cameras are on display at the same time, it also shows a brief description of the camera system controls.
 
+* If you are using this software using the vr device simulator, to be able to see in the computer screen through the simulated VR headset you have to press the key *K*. To go back to the usual computer menu press *K* again.
+
+
 ## NOTES
 * Even though there is the option to use this software in multiplayer mode, this software was not designed with the idea of having more than two running at the same time, which means it only has the capacity of creating one room, if someone else has a room open it may produce errors to create another.
-* If you are using this software using the vr device simulator, to be able to see in the computer screen through the simulated VR headset you have to press the key K. To go back to the usual computer menu press K again.
